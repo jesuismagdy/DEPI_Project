@@ -37,7 +37,7 @@ This project combines advanced data techniques to provide:
    - *Details*:
      - Each table includes a unique primary key and relevant relationships with other tables.
      - Data types were carefully selected to optimize storage and retrieval speed.
-   - *Example Image*: ![Add image of SQL table structure here](path/to/image)
+   
 
 
 ### 2. ETL Process using SSIS
@@ -46,7 +46,7 @@ This project combines advanced data techniques to provide:
      - The ETL process integrates data from diverse sources, handling duplicates and missing values.
      - Transformation logic includes standardizing date formats and currency values.
      - The ETL workflow is automated to refresh data at regular intervals.
-   - *Example Image*: ![Add screenshot of SSIS ETL workflow here](path/to/image)
+   
 
 
 ### 3. Machine Learning in Azure with Python
@@ -55,7 +55,7 @@ This project combines advanced data techniques to provide:
      - Azure Notebooks were used to develop models with popular libraries like scikit-learn and pandas.
      - Model include regression  algorithms tailored to business needs.
      - The models are regularly updated as new data is loaded into the system.
-   - *Example Image*: ![Add image of Python code in Azure environment here](path/to/image)
+   
 
 
 ### 4. Power BI Dashboard Visualization
@@ -66,4 +66,4 @@ This project combines advanced data techniques to provide:
      - Sales and Profit Trends: Graphical insights into sales over time, segmented by product and region.
      - Geographical Breakdown: Visual map of profit by state with a comparison between the U.S. and Canada.
      - Customer Segmentation: Insights into sales distribution across consumer, corporate, and home office segments.
-   - *Example Image*: ![Add screenshot of Power BI dashboard here](path/to/image)
+   
